@@ -6,7 +6,6 @@
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-<!-- Add your reflection here. Remove the comment markers -->
 I learned that there is a difference between the Internet and the World Wide Web. The web is really what you would call the collection of websites that one can view on their web browser. The internet however is the all encompassing network of computers and servers that connect everyones files. I also learned that the difference between what is considered a webpage and a web app is that a webpage is mostly static with HTML, CSS, and some Javascript, while a web app is typically more dynamic with server-side code. I also found it interesting how services that sell domain names get their licenses from ICANN, a nonprofit from the U.S. government.
 
 When setting up your HTML site, it is important to remember your hosting, your domain nameservers, and your DNS servers if you want to ever transfer your domain. It's also important to remember what you are using for your top level domain (such as .com or .net). Sometimes it could be used to your advantage such as setting up a site named 'www.glorio.us'
