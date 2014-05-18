@@ -1,5 +1,7 @@
 ## 8. [Comparing Favorite Websites](8_technical_blog/readme.md) Reflection
 
-Blog url: <!-- Blog URL here (remove comment)  -->
+Blog url: http://jwag789.github.io/unit1_projects/week1_technical_blog.html
 
 Reflect on the process of researching and writing a blog post. It doesn't have to be long. Did you enjoy this? Did you get comments or views? Did you find the blog helpful to your learning? Did you find it cumbersome? Which parts did you feel best about and which did you feel less certain about?
+
+The process of researching and writing a blog post was...interesting. I've written a few articles for friends blogs about certain technologies so it wasn't too foreign, but I've never exactly thought about why I love my favorite websites. I have not yet gotten comments or reviews, but it's definitely exciting spreading this post amongst my peers. While I was writing, I realized I had to stop myself because there was so much that I wanted to say and get through to people. I didn't exactly find it cumbersome, but it was definitely hard to narrow down my favorite websites to just three. The parts I felt best about was certain aspects of my design, including Google webfonts and nice color schemes and taking advantage of free usable patterns from the internet. I also felt good about my writing for the most part. I felt less certain about expanding my layout to something a little bit more interesting, including sidebars and floating elements, simply because I wanted to keep it clean. I'll plan on working on that aspect.
