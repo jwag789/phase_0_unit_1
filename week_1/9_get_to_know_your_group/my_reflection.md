@@ -30,6 +30,20 @@ I will be sending you all my work thus far later on in the night. I look forward
 
 -Justin
 
+(Added second e-mail)
+
+I suppose I'll send out my work as well now, following the instruction of Challenge #9.
+
+Link to forked phase_0_unit_1 repository:
+https://github.com/jwag789/phase_0_unit_1
+
+Link to github.io site:
+http://jwag789.github.io/
+
+Link to wireframe html page:
+http://jwag789.github.io/unit1_projects/wireframe_sites.html
+
+Thanks everyone! Looking forward to seeing yours.
 ---
 
 Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
