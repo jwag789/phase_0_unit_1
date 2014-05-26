@@ -1,1 +1,79 @@
-/* include your css here */
+
+    body {
+        background-color: #787477;
+        }
+    #container {
+        width: 750px;
+        border: 1px solid black;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #F2F2F2;
+        }
+        
+    #header {
+        height: 140px;
+        background-color: #76B3DF;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    #header h1 {
+        font-family: 'Roboto Slab', Helvetica, sans-serif;
+    }
+    
+    #header h1:before{
+        content:url('http://i.imgur.com/gz6il1D.png');
+        margin-right: 30px;
+    }
+    
+    #header h1:after{
+        content:url('http://puu.sh/8Y83d/e841977262.jpg');
+        margin-left: 30px;
+    }
+    
+    #sidebar {
+        float: left;
+        width: 200px;
+        margin-top: 10px;
+        padding: 20px;
+    }
+    
+    
+     #footer {
+        color: #FFF;
+        float: left;
+        clear: left;
+        position: relative;
+        top: 540px;
+        background-color: #08354C;
+        
+        width: 200px;
+        border-radius:15px;
+        margin-left: 10px;
+        padding: 10px 10px 0 10px;
+        text-align: center;
+    }
+    
+    #content {
+        margin-left: auto;
+        width: 500px;
+    }
+    
+    #content,
+    #sidebar,
+    #footer {
+        font-family: 'Open Sans', Helvetica, sans-serif;
+    }
+    #content p{
+        padding-right: 20px;
+    }
+    ul
+      {
+  list-style-type: none;
+      }
+
+a:link {color:#787477;}      /* unvisited link */
+a:visited {color:#9F938A;}   /* visited link */
+a:hover {color:#141527;}     /* mouse over link */
+a:active {color:#B38353;}    /* selected link */
