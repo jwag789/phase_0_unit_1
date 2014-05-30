@@ -17,22 +17,42 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+// make a new empty object, adam
+// give adam object name property
+// give terah object spouse property of object adam
+// change the terah object weight property
+// delete the terah objects eyeColor property
+// give adam spouse property of object terah
+// give terah children property of an empty object
+// add object named carson with name property to the children object in the terah object
+// add object named carter with name property to the children object in the terah object
+// add object named colton with name property to the children object in the terah object
+// give adam children property equal to terah's children property
 
-
-
-
-
-
+var adam = {};
+adam.name = "Adam";
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {};
+terah.children.carson = {name: "Carson"};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
-// 
-// 
-// 
-// 
-// 
-
+// This was a nice challenge to complete. To me, I didn't really have many problems, but
+// it was good to work through. Most of it was very intuitive to me, but the only thing I
+// wasn't sure about was how to delete a property. I tried a few different things and figured
+// the keyword delete would work, especially when it changed colors, which is always helpful.
+// The concept of an object in Javascript becomes more and more solidified as I work through
+// these challenges. I can definitely define local variables, create/add/delete properties,
+// access values, and use test driven development. I enjoyed working through this challenge just
+// to see the changes I would make to the objects, and how objects can interact and take from each
+// other. Writing psuedo code is still somewhat strange to me, but I can see the benefits.
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
