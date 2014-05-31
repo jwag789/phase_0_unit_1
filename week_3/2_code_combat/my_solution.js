@@ -223,10 +223,7 @@ this.attackXY(59,44);
 // This was an interesting activity to complete. I love video games so that resonated
 // with me. It was also useful to sort of see how functions can play out in a visual sense,
 // and it was definitely useful to practice writing in psuedocode and then translating
-// it to code. Other than that I thought that this excercise was a little too simple even,
-// as I felt the psuedocode I was writing was exactly the same as the real code, and
-// other than writing in psuedocode, not much was being really taught. The excercises
-// pretty much consisted of moving around a couple of function calls. I definitely enjoyed
-// reading through each of the functions and how they worked however, and it gave me a good
+// it to code.
+// I enjoyed reading through each of the functions and how they worked, and it gave me a good
 // sense of how "this" is used, and a few other syntax points. A good resource for this section
 // that I found was: http://www.codecademy.com/blog/78-your-guide-to-semicolons-in-javascript
