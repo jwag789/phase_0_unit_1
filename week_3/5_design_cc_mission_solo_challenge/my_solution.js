@@ -144,7 +144,7 @@ function blowHorn(){
 	else if (euron.pos.x === podium.pos.x && euron.pos.y === podium.pos.y && cragorn.bag[0] === dragonHorn){
 		alert("The horn is blown and sounds like the screaming of a thousand souls.");
 		alert("People stand in amazement as they realize the power you have found.");
-		alert("As Cragorn falls to his death from the horn made of Dragon's scales, \neveryone cheers with hope that you will bring them Dragons, and power.");
+		alert("As Cragorn falls to his death from the horn made of Dragon's scales, everyone cheers with hope that you will bring them Dragons, and power.");
 		alert("They no longer seem interested in the other claimants, and begin to shout Euron, Euron, KING EURON!");
 		euron.status = "King";
 		
@@ -267,7 +267,7 @@ function blowHorn(){
 	else if (euron.pos.x === podium.pos.x && euron.pos.y === podium.pos.y && cragorn.bag){
 		alert("The horn is blown and sounds like the screaming of a thousand souls.");
 		alert("People stand in amazement as they realize the power you have found.");
-		alert("As Cragorn falls to his death from the horn made of Dragon's scales, \neveryone cheers with hope that you will bring them Dragons, and power.");
+		alert("As Cragorn falls to his death from the horn made of Dragon's scales, everyone cheers with hope that you will bring them Dragons, and power.");
 		alert("They no longer seem interested in the other claimants, and begin to shout Euron, Euron, KING EURON!");
 		delete cragorn.status;
 		euron.status = "King";
