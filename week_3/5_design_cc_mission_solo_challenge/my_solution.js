@@ -348,4 +348,5 @@ alert("Thank you for playing!");
 // Although testing my code was nice, it was definitely tedious when I had to go deep into the game to test something several times. It ended up taking
 // much longer just testing it over and over again. Also, I enjoyed tackling the challenge of changing most alerts based on your status and whether you
 // got the item yet, dropped it of yet, but I felt like I had more if/else if/else loops than necessary, and I started to feel like too much time and code
-// was being spent on changing text, when I mostly just wanted to see a result of changing around properties of an object.
+// was being spent on changing text, when I mostly just wanted to see a result of changing around properties of an object. This was a fun challenge, however
+// I think I started going too far as I tried to reach my original goals, and there are probably better solutions, but I'm excited to learn more.
