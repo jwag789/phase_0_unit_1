@@ -5,7 +5,6 @@
 oddLengthArray  = [1, 2, 3, 4, 5, 5, 7]
 evenLengthArray = [4, 4, 5, 5, 6, 6, 6, 7]
 
-
 function assert(test, message, test_number) {
   if (!test) {
     console.log(test_number + "false");
