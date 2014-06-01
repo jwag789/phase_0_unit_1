@@ -313,7 +313,8 @@ alert("Thank you for playing!");
 // By the end of working through this, most of my strategy had worked. I originally had the player type in coordinates instead of moving in 
 // a direction, but the way I went about it felt messy. I had refreshed myself on JSON parsing to change the numbers someone would type in 
 // into an array, and used NaN to find if the user typed in a space or special character, but if the user typed in a letter, the program 
-// would receive and error.
+// would receive and error. Refactoring helped a lot, creating functions to make objects, and functions or variables to print out something
+// that I would print a lot.
 
 // What questions did you have while coding? What resources did you find to help you answer them?
 
