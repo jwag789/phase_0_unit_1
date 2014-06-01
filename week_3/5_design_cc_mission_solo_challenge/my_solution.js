@@ -67,7 +67,7 @@ cragorn.pos.y = 2;
 cragorn.bag = [];
 
 function move(){
-	var destination = prompt("Where would you like to move, " + euron.status + " Euron?. Type left, right, up, or down.\n Dragon Horn: 4,4 \n Podium: 2,4 \n Cragorn: 2,2");
+	var destination = prompt("Where would you like to move, " + euron.status + " Euron? Type left, right, up, or down.\n Dragon Horn: 4,4 \n Podium: 2,4 \n Cragorn: 2,2");
 	if (destination.toLowerCase() === "left"){
 		if (euron.pos.x<2){
 		alert("That is not a valid movement!")
@@ -208,7 +208,7 @@ var dragonHorn = new Thing({x:4,y:4});
 var podium = new Thing({x:2,y:4});
 
 function move(){
-	var destination = prompt("Where would you like to move, " + euron.status + " Euron?. Type left, right, up, or down.\n Mountains: 4,4 \n Podium: 2,4 \n Cragorn: 2,2").toLowerCase();
+	var destination = prompt("Where would you like to move, " + euron.status + " Euron? Type left, right, up, or down.\n Mountains: 4,4 \n Podium: 2,4 \n Cragorn: 2,2").toLowerCase();
 	if (destination === "left"){
 		if (euron.pos.x<2){alert("Where do you think you're going?")}
 		else{euron.pos.x -= 1;}
