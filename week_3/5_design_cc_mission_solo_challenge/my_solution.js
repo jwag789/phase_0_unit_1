@@ -201,6 +201,7 @@ function Thing(pos){
 	this.pos = pos;
 };
 
+
 var euron = new Person({x:1,y:1}, null, "Captain");
 var cragorn = new Person({x:2,y:2}, null, "Happily Alive");
 
@@ -299,12 +300,21 @@ else if (action.toLowerCase() === "blow horn"){
 	if (euron.status){stats();}
 }
 }
+
+function gameOn(){
+euron.status = "Captain";
+euron.pos = {x:1,y:1};
+euron.bag = null;
+cragorn.status = "Happily Alive";
+cragorn.bag = null;
 alert("The time is near to elect the new king. You must convince everyone by finding the deadly Dragon Horn.\nTry heading to the mountains.");
 stats();
 while (euron.status && cragorn.status){
 play();
 }
 alert("Thank you for playing!");
+}
+
 
 // Reflection
 //
@@ -343,6 +353,10 @@ alert("Thank you for playing!");
 // I had fun with most of this challenge after I started getting into it. It was nice to be able to test my code using the browser console, and it was
 // pretty exciting when I figured out a problem and saw my code work. The fact that it was so open ended was intimidating to me at first but I began
 // to have fun with it, using a scenario based on some favorite books and mixing in my love for video games.
+
+// Edit: I just played around with making an HTML page to include my Javascript code. I put the code in a button and changed around the code
+// just a little bit, to make the game not loop, and to reset the game to its original condition. I'm not sure if I did that in the best way,
+// but I just wanted to try using the code with HTML and CSS.
 
 // Which parts of the challenge did you find tedious?
 
